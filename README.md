@@ -1,10 +1,9 @@
 <h1 align="center">
 Code to Content
-</h1>
-
-<h2 align="center">
+<h2>
 The Art and Impact of Data Blogging
 </h2>
+</h1>
 
 <div align="center">
 
