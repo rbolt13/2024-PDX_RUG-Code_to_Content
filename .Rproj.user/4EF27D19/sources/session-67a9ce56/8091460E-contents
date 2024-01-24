@@ -19,4 +19,4 @@ Quick Link
 [Website]:https://www.rbolt.me/
 [LinkedIn]:https://www.linkedin.com/in/randi-bolt/
 
-This repository contains the code for the Code to Content slides presented at the Portland R User Group Lightning Talks.
+This repository contains the code for the [Code to Content slides](https://code-to-content.netlify.app/#/title-slide) presented at the Portland R User Group Lightning Talks.
