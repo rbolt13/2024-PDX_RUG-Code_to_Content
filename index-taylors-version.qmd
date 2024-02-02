@@ -1,0 +1,145 @@
+---
+title: "Code to Content"
+subtitle: "The Art and Impact of Data Blogging"
+author: "[Randi Bolt](https://www.rbolt.me/)"
+date: "2/6/24"
+format:
+  revealjs:
+    incremental: true 
+title-slide-attributes:
+    data-background-color: "beige"
+---
+
+## Agenda {background-color="beige"}
+
+1. **Adventure Awaits**
+
+    Reasons to Embark on Your Expedition
+    
+    ![](https://media.giphy.com/media/7ZtYbXvpXVbZIo2Hr2/giphy.gif){.fragment .absolute top=50 right=0 width="350" height="140"}
+
+2. **Blogging Blueprint**
+
+    Building Your Narrative With Quarto
+    
+    ![](https://media.giphy.com/media/WdtfXpuXAS7hb1wr1V/giphy.gif){.fragment .absolute top=205 right=0 width="350" height="140"}
+
+3. **Curated Counsel**
+
+    Advice for Smooth Sailing
+    
+    ![](https://media.giphy.com/media/3GLv0c5FS2peFpMVsF/giphy.gif){.fragment .absolute top=355 right=0 width="350" height="140"}
+    
+4. **Dive Deeper**
+
+    Resourceful Links
+    
+    ![](https://media.giphy.com/media/oO8JtuxP3KPvDvysdi/giphy.gif){.fragment .absolute top=505 right=0 width="350" height="140"}
+
+# Adventure Awaits {background-color="beige"}
+
+![](https://media.giphy.com/media/oM1l4b3uqdnP2cTtuU/giphy.gif)
+
+## Reasons to Embark on Your Expedition {background-color="beige"}
+
+- Joy in Expression and Self Discovery 
+
+    ![](https://media.giphy.com/media/pJmnk86fXFNmrUb8LB/giphy.gif){.fragment .absolute top=50 right=0 width="350" height="150"}
+
+- Own Your Narrative
+
+    ![](https://media.giphy.com/media/KYb2aDX5m8ooNq8bzd/giphy.gif){.fragment .absolute top=140 right=0 width="350" height="150"}
+
+- Continuous Growth and Learning
+
+    ![](https://media.giphy.com/media/GqOO8PEwZnSafhBhAT/giphy.gif){.fragment .absolute top=230 right=0 width="350" height="150"}
+
+- Reveal Fresh Perspectives
+
+    ![](https://media.giphy.com/media/zXEX9aqW5EvWmDFkOO/giphy.gif){.fragment .absolute top=310 right=0 width="350" height="150"}   
+
+- Data Advocacy and Empowerment
+
+    ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJ3d3VlaW5renE4MXJ0d3g4aWEyNjhqbjF0aDJ4ZzlsY2VyNTRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lptlFJmgNmYWESXA6c/giphy.gif){.fragment .absolute top=390 right=0 width="350" height="150"}
+
+- Embedded in R Culture
+
+    ![](https://media.giphy.com/media/fyiBTrbjQVE1pFupfE/giphy.gif){.fragment .absolute top=480 right=0 width="350" height="150"}
+
+# Blogging Blueprint {background-color="beige"}
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGM4cWZoM3dyNzMxZnZlbXBweGM2bWI0YmU3b3g1N2d3emp1a3F1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l31TebVjlTWrQ5O3SM/giphy.gif)
+
+## Building Your Narrative With Quarto {background-color="beige"}
+
+- Knowledge Acquisition, Ideation, 
+
+    and Planning
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJqNW5ib3VzZTV2bXRsYXBxb3VqY2E4Z21sa3Y1cHNjejcxZXV6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jO2B3Llymxny6BSObJ/giphy.gif){.fragment .absolute top=70 right=0 width="350" height="150"}
+
+- Setup, Version Control, 
+
+    and Deployment
+    
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTJ1ZWZhdmtpdGducjMyaXV0am54Zmg3NnRpZnlnYnE3dTF1d2dkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KfkNIiOrhEGzsPSUqZ/giphy.gif){.fragment .absolute top=220 right=0 width="350" height="150"}
+
+- Configure, Personalize, and Post
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQ5bmNydjZlc2hlNnRsY2Jmb2MxOGhlN3Azc21pM2xidHM0MjNzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOE5zjbtd6a9cDwQol/giphy.gif){.fragment .absolute top=350 right=0 width="350" height="150"}
+
+- Aesthetics, Ownership, and Analysis
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmtmZmFvbzF2ZWczYXdrZDNld3dodHhwNHE5cDFmMzh6b3N0cTRheiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WpOeN2QtCB3n1UblFx/giphy.gif){.fragment .absolute top=500 right=0 width="350" height="150"}
+
+# Curated Council {background-color="beige"}
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRndHVtd283OXg2OTFxOXVkcDNkeGI2MnN6bWYwbWRqdTNjOWJ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNpnTnfGM1ImTtYKuU/giphy.gif)
+
+## Advice for Smooth Sailing {background-color="beige"}
+
+- Prioritize Accessibility
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2MyYXkxMjgydnM1ZnRwd2MzM3Z0cGJpam54Mng0bmI2YzA0a3JoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ghBFrf7h1vxVG8Pv9Y/giphy.gif){.fragment .absolute top=70 right=0 width="350" height="150"}
+
+<br>
+
+- Select the Right Tool for the Job
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXVxNmgyb3lxOWplMnl5bHBqNXJ5N2M3ejByYnRxdGZ2ZnIyNWpuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1TWTuEXuBqluUMGLU/giphy.gif){.fragment .absolute top=220 right=0 width="350" height="150"}
+
+<br>
+
+- Avoid Duplicating Other Profiles
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlyMmY3ZGdtOThseHNrZTNvZ3c3cGNkdGZnN2NleTNsM3M0ODZvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hrFbUtmDOD6Oy0ZQja/giphy.gif){.fragment .absolute top=360 right=0 width="350" height="150"}
+
+<br>
+
+- Consider Your Audience 
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM2OHRueGVndnRkb2JmcjQ3N2lqNjk3OGk5bXhydWN5N2E3ZmxxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp0nBuaRjcj13j3nMH/giphy.gif){.fragment .absolute top=500 right=0 width="350" height="150"}
+
+# Dive Deeper {background-color="beige"}
+
+## Resources {background-color="beige"}
+
+![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRqeTZqdjdjaGZkcnFpYnNhbGNnNzBkYjE3dDlleTllMDRidHRkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mBLtaNctaoxW6ewnRA/giphy.gif){.fragment .absolute top=0 right=0 width="350" height="150"}
+
+- [Quarto > Websites > Creating a Blog](https://quarto.org/docs/websites/website-blog.html)
+
+- [Creating a blog with Quarto in 10 steps](https://beamilz.com/posts/2022-06-05-creating-a-blog-with-quarto/en/)
+    
+    Bea Milz - [Blog](https://beamilz.com/) ([Repo](https://github.com/beatrizmilz/blog-en))
+
+- [Create Your Data Science Portfolio with Quarto](https://www.youtube.com/watch?v=xtSFXtDf4cM) 
+
+    Deepsha Menghani - [Blog](https://deepshamenghani.quarto.pub/dmenghani/) ([Repo](https://github.com/deepshamenghani/Portfolio_DeepshaM))
+
+- [Style Your Quarto Blog without Knowing a lot of HTML/CSS](https://www.youtube.com/watch?v=ErRX8plZpQE) 
+
+    Albert Rapp - [Blog](https://albert-rapp.de/)
+    
+- [Quarto/RMarkdown - What's Difference?](https://www.youtube.com/watch?v=i6rajzMkpD0)
+
+    Ted Laderas - [Blog](https://laderast.github.io/) ([Repo](https://github.com/laderast/laderast.github.io))

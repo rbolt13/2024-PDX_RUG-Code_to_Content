@@ -12,6 +12,8 @@ title-slide-attributes:
 
 ## Agenda {background-color="beige"}
 
+![](scroll.png){.fragment .absolute top=0 right=0 width="350" height="300"}
+
 1. **Adventure Awaits**
 
     Reasons to Embark on Your Expedition
@@ -26,19 +28,23 @@ title-slide-attributes:
     
 4. **Dive Deeper**
 
-    Resourcesful Links
+    Resourceful Links
 
 # Adventure Awaits {background-color="beige"}
 
-## Reasons to Embark on Your Expedition {background-color="beige"}
+**Reasons to Embark on Your Expedition**
 
-- Joy in Expression
+## Adventure Awaits {background-color="beige"}
+
+**Reasons to Embark on Your Expedition**
+
+![](dreamy-ship.png){.fragment .absolute top=0 right=0 width="300" height="300"}
+
+- Joy in Expression and Self Discovery 
 
 - Own Your Narrative
 
 - Continuous Growth and Learning
-
-- Self Discovery 
 
 - Reveal Fresh Perspectives
 
@@ -48,67 +54,51 @@ title-slide-attributes:
 
 # Blogging Blueprint {background-color="beige"}
 
-## Building Your Narrative With Quarto {background-color="beige"}
+**Building Your Narrative With Quarto**
 
-i. Familiarize Yourself with the Quarto Documentation 
-    
-:::: {.columns}
+## Blogging Blueprint {background-color="beige"}
 
-::: {.column width="50%"}
+**Building Your Narrative With Quarto**
 
-1. Generate Ideas
+![](boat-blueprint.jpeg){.fragment .absolute top=0 right=0 width="400" height="200"}
 
-2. Seek Inspiration 
+- Knowledge Acquisition, Ideation, 
 
-3. Plan Layout
+    and Planning
 
-4. Set the Groundwork
+- Setup, Version Control, and Deployment
 
-5. Link Your Work (Github)
+- Configure, Personalize, and Post
 
-6. Elevate your Reach (Netlify)
-
-:::
-
-::: {.column width="50%"}
-
-7. Style (.scss)
-
-8. Customize (.yaml)
-
-9. Craft Engaging Landing page
-
-10. Design Remaining Pages 
-
-11. First Blog Post
-
-12. Claim Your Domain
-
-:::
-
-::::
-
-13. Track Your Impact (Google Analytics)
+- Aesthetics, Ownership, and Analysis
 
 # Curated Council {background-color="beige"}
 
-## Advice for Smooth Sailing {background-color="beige"}
+**Advice for Smooth Sailing**
 
-- Consider Your Audience 
+## Curated Council {background-color="beige"}
 
-- Intentional Landing Page
+**Advice for Smooth Sailing**
 
-- Avoid Duplicating Other Profiles
-
-- Select the Right Tool for the Job
-
-- Edit! Edit! Edit!
+![](dreamy-pirates.png){.fragment .absolute top=0 right=0 width="350" height="300"}
 
 - Prioritize Accessibility
 
+- Select the Right Tool for the Job
+
+- Avoid Duplicating Other Profiles
+
+- Consider Your Audience 
+
 # Dive Deeper {background-color="beige"}
 
-## Resourcesful Links {background-color="beige"}
+**Resources**
+
+## Dive Deeper {background-color="beige"}
+
+**Resources**
+
+![](ship-ocean-view.png){.fragment .absolute top=0 right=0 width="350" height="300"}
 
 - [Quarto > Websites > Creating a Blog](https://quarto.org/docs/websites/website-blog.html)
 
