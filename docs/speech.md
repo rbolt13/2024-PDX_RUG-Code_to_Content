@@ -1,16 +1,16 @@
-# Slide 1: Code to Content
+## Slide 1: Code to Content
 
 Hello, good evening everyone!
 
 I'm Randi, and since rendering my first R markdown file to HTML back in 2020, I’ve been complimenting my growing technical skills with web pages and blogs. Today, I’m excited to share the transformative power of turning code into content. 
 
-# Slide 2: Agenda
+## Slide 2: Agenda
 
-  _[transition: image]_
+    _[transition: image]_
 
 Before we set sail, let me briefly outline our agenda. 
 
-[bullet: Adventure Awaits /n Reasons to Embark on Your Expedition]
+    _[bullet: Adventure Awaits /n Reasons to Embark on Your Expedition]_
 
 We’ll kick things off by diving into the compelling reasons why you should start blogging. 
 
@@ -28,7 +28,7 @@ Finally, I’ll drop the anchor and share some resources that have been instrume
 
 [transition]
 
-Slide 3: Adventure Awaits
+## Slide 3: Adventure Awaits
 
 Now, let's talk about the adventure that awaits us. 
 
@@ -64,7 +64,7 @@ Contribute to the vibrant culture of R by paying it forward. We’ve all found i
 
 Now, let;s chart our course with the … 
 
-Slide 4: Blogging Blueprint
+## Slide 4: Blogging Blueprint
 
 Blogging Blueprint, 
 
@@ -98,7 +98,7 @@ Now let's set sail smoothly with some,
 
 [transition]
 
-Slide 5: Curated Council
+## Slide 5: Curated Council
 
 Curated Council 
 
@@ -126,7 +126,7 @@ Tailor your blog to your audience, and craft your landing page with care. Guide 
 
 Now it’s time to, 
 
-Slide 6: Dive Deeper
+## Slide 6: Dive Deeper
 
 [image: pirate boat from ocean perspective]
 
