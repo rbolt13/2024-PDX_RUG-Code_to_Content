@@ -6,27 +6,27 @@ I'm Randi, and since rendering my first R markdown file to HTML back in 2020, I�
 
 ## Slide 2: Agenda
 
-    _[transition: image]_
+_[transition: image]_
 
 Before we set sail, let me briefly outline our agenda. 
 
-    _[bullet: Adventure Awaits /n Reasons to Embark on Your Expedition]_
+_[bullet: Adventure Awaits /n Reasons to Embark on Your Expedition]_
 
 We’ll kick things off by diving into the compelling reasons why you should start blogging. 
 
-[bullet: Blogging Blueprint /n Building Your Narrative With Quarto]
+_[bullet: Blogging Blueprint /n Building Your Narrative With Quarto]_
 
 Next, we’ll sail through the high-level steps on blog origination, ensuring you’re equipped to navigate your blogging journey smoothly. 
 
-[bullet: Curated Counsel /n Advice for Smooth Sailing]
+_[bullet: Curated Counsel /n Advice for Smooth Sailing]_
 
 After that, I’ll share some friendly and hopefully time saving advice. 
 
-[bullet: Dive Deeper /n Resourceful Links]
+_[bullet: Dive Deeper /n Resourceful Links]_
 
 Finally, I’ll drop the anchor and share some resources that have been instrumental in my own blogging odyssey. 
 
-[transition]
+_[transition]_
 
 ## Slide 3: Adventure Awaits
 
