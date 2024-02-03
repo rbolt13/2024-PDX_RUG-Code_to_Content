@@ -12,7 +12,7 @@ title-slide-attributes:
 
 ## Agenda {background-color="beige"}
 
-![](scroll.png){.fragment .absolute top=0 right=0 width="350" height="300"}
+![](img/scroll.png){.fragment .absolute top=0 right=0 width="350" height="300" alt="Purple Scroll"}
 
 1. **Adventure Awaits**
 
@@ -30,15 +30,11 @@ title-slide-attributes:
 
     Resourceful Links
 
-# Adventure Awaits {background-color="beige"}
-
-**Reasons to Embark on Your Expedition**
-
 ## Adventure Awaits {background-color="beige"}
 
 **Reasons to Embark on Your Expedition**
 
-![](dreamy-ship.png){.fragment .absolute top=0 right=0 width="300" height="300"}
+![](img/dreamy-ship.png){.fragment .absolute top=0 right=0 width="300" height="300" alt="Pirate ship on foggy waters at night."}
 
 - Joy in Expression and Self Discovery 
 
@@ -52,15 +48,11 @@ title-slide-attributes:
 
 - Embedded in R Culture
 
-# Blogging Blueprint {background-color="beige"}
-
-**Building Your Narrative With Quarto**
-
 ## Blogging Blueprint {background-color="beige"}
 
 **Building Your Narrative With Quarto**
 
-![](boat-blueprint.jpeg){.fragment .absolute top=0 right=0 width="400" height="200"}
+![](img/boat-blueprint.jpeg){.fragment .absolute top=0 right=0 width="400" height="200" alt="Ship Blueprint"}
 
 - Knowledge Acquisition, Ideation, 
 
@@ -72,15 +64,11 @@ title-slide-attributes:
 
 - Aesthetics, Ownership, and Analysis
 
-# Curated Council {background-color="beige"}
-
-**Advice for Smooth Sailing**
-
 ## Curated Council {background-color="beige"}
 
 **Advice for Smooth Sailing**
 
-![](dreamy-pirates.png){.fragment .absolute top=0 right=0 width="350" height="300"}
+![](img/dreamy-pirates.png){.fragment .absolute top=0 right=0 width="350" height="300" alt="Dreamy Pirates"}
 
 - Prioritize Accessibility
 
@@ -90,15 +78,11 @@ title-slide-attributes:
 
 - Consider Your Audience 
 
-# Dive Deeper {background-color="beige"}
-
-**Resources**
-
 ## Dive Deeper {background-color="beige"}
 
 **Resources**
 
-![](ship-ocean-view.png){.fragment .absolute top=0 right=0 width="350" height="300"}
+![](img/ship-ocean-view.png){.fragment .absolute top=0 right=0 width="350" height="300" alt="Ocean view of a pirate ship"}
 
 - [Quarto > Websites > Creating a Blog](https://quarto.org/docs/websites/website-blog.html)
 
@@ -114,6 +98,6 @@ title-slide-attributes:
 
     Albert Rapp - [Blog](https://albert-rapp.de/)
     
-- [Quarto/RMarkdown - What's Difference?](https://www.youtube.com/watch?v=i6rajzMkpD0)
+- [Quarto/RMarkdown - What's Different?](https://www.youtube.com/watch?v=i6rajzMkpD0)
 
     Ted Laderas - [Blog](https://laderast.github.io/) ([Repo](https://github.com/laderast/laderast.github.io))
