@@ -1,12 +1,12 @@
-Slide 1: Code to Content
+# Slide 1: Code to Content
 
 Hello, good evening everyone!
 
 I'm Randi, and since rendering my first R markdown file to HTML back in 2020, I’ve been complimenting my growing technical skills with web pages and blogs. Today, I’m excited to share the transformative power of turning code into content. 
 
-Slide 2: Agenda
+# Slide 2: Agenda
 
-[transition: image]
+  _[transition: image]_
 
 Before we set sail, let me briefly outline our agenda. 
 
